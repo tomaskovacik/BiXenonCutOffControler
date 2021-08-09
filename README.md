@@ -9,3 +9,7 @@ Simple board which enable bi-xenon cutoff selenoid only if low beams are turned 
 Single Nchannel mosfet is turned on when low beams are enabled. This mosfet grounds one side of selenoid which is then turned on when high beams are used.
 
 <img src="https://raw.githubusercontent.com/tomaskovacik/BiXenonCutOffControler/main/schematics.png" />
+
+# In action
+
+https://youtu.be/b0E2H7acrZI
