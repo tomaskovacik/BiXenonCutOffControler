@@ -2,7 +2,7 @@
 
 Simple board which enable bi-xenon cutoff selenoid only if low beams are turned on or disable it when low beams are turned off. When your car is using [PWM](https://en.wikipedia.org/wiki/Pulse-width_modulation) to drive your high beam bulbs at ~30% to act as daytime driving lights, connecting bixenon cuttoff selenoid paralel to high beam bulb will cause nasty rattling noise of this selenoid. 
 
-<img src="https://raw.githubusercontent.com/tomaskovacik/BiXenonCutOffControler/main/20210721_141458.jpg" />
+<img src="https://raw.githubusercontent.com/tomaskovacik/BiXenonCutOffControler/main/20210810_064935.jpg" />
 
 # Schematics
 
